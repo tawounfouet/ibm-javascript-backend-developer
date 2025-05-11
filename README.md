@@ -45,6 +45,7 @@ ibm-javascript-backend-developer/
 
 
 ## 📚 Ce que chaque module m’a permis d’apprendre
+
 **01 - Introduction to Software Engineering**
 Comprendre le cycle de vie du développement logiciel, les rôles d’une équipe tech, et les bonnes pratiques.
 
