@@ -47,40 +47,52 @@ ibm-javascript-backend-developer/
 ## 📚 Ce que chaque module m’a permis d’apprendre
 
 **01 - Introduction to Software Engineering**
+
 Comprendre le cycle de vie du développement logiciel, les rôles d’une équipe tech, et les bonnes pratiques.
 
 **02 - HTML, CSS, & JavaScript**
+
 Maîtriser les bases du développement front-end pour structurer, styliser et rendre interactives les pages web.
 
 **03 - Git and GitHub**
+
 Utiliser Git pour gérer les versions du code et GitHub pour collaborer efficacement sur des projets.
 
 **04 - JavaScript Essentials**
+
 Approfondir les fondements de JavaScript : logique, structures de données, fonctions, objets, etc.
 
 **05 - Node.js & Express**
+
 Développer des applications serveur avec Express, gérer les routes, les requêtes, les middlewares, etc.
 
 **06 - Cloud Native, DevOps, Agile & NoSQL**
+
 Comprendre les environnements cloud modernes, les bases de DevOps, l’agilité, et découvrir les bases NoSQL.
 
-**07 - Docker, Kubernetes & OpenShift
+**07 - Docker, Kubernetes & OpenShift**
+
 Conteneuriser les applications avec Docker et gérer leur déploiement avec Kubernetes et OpenShift.**
 
 **08 - Microservices & Serverless**
+
 Concevoir des applications modulaires et scalables à l’aide de microservices et de fonctions serverless.
 
 **09 - Node.js & MongoDB (anciennement Intermediate Node.js)**
+
 Gérer des bases MongoDB, sécuriser les APIs, gérer les erreurs et mettre en place des systèmes d’authentification.
 
 **10 - Projet Capstone**
+
 Réaliser une application complète mettant en œuvre toutes les compétences acquises au cours du programme.
 
 **11 - Software Developer Career Guide**
+
 Me préparer au monde professionnel : techniques d’entretien, portfolio, optimisation du CV, networking.
 
 
 ## 🏁 Certification obtenue
+
 À la fin de ce parcours, j’ai validé ma formation avec succès et obtenu le certificat professionnel suivant :
 
 🎖️ IBM Back-End JavaScript Developer Professional Certificate
